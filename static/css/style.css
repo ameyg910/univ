@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  min-height: 100vh;
+}
+.text-gradient {
+  background: linear-gradient(90deg, #ff512f 0%, #dd2476 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.card {
+  border-radius: 1.5rem;
+} 
